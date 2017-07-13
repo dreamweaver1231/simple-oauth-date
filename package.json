@@ -1,16 +1,16 @@
 {
-  "name": "simple-oauth2",
-  "version": "1.3.0",
+  "name": "simple-oauth-date",
+  "version": "1.0.0",
   "description": "Node.js client for OAuth2",
-  "author": "Andrea Reginato <andrea.reginato@gmail.com>",
+  "author": "Pratap Singh <dreamweaver1231@gmail.com>",
   "contributors": [
-    "Jonathan Samines <jn.samines@gmail.com>"
+    "Pratap Singh <dreamweaver1231@gmail.com>"
   ],
-  "homepage": "https://github.com/lelylan/simple-oauth2",
+  "homepage": "https://github.com/dreamweaver1231/simple-oauth-date",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lelylan/simple-oauth2"
+    "url": "https://github.com/dreamweaver1231/simple-oauth-date"
   },
   "engine": {
     "node": ">=4.0"
