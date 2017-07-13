@@ -1,6 +1,6 @@
 {
   "name": "simple-oauth-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js client for OAuth2",
   "author": "Pratap Singh <dreamweaver1231@gmail.com>",
   "contributors": [
